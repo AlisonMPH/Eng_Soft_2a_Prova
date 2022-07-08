@@ -3,7 +3,7 @@
 1ª) Cria um repositório com o nome: Eng_Soft_2a_Prova  
 **OK**  
 
-2ª) Neste repositório, crie 2 arquivos ** 
+2ª) Neste repositório, crie 2 arquivos **  
 a) um arquivo chamado: DadosPessoais.txt , que terá seu nome completo, telefone e e-mail pessoal.   
 **criou o arquivo, mas estava vazio.**  
 
